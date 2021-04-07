@@ -20,6 +20,8 @@ These purpose of using these algorithm is to provide the baseline to analyse the
  3. The evalution metric includes f1_score, auc and roc curve.
  
  ## Performance
+![img1](./result/图片1.png)
+LogisticFlatten
 
- 
- 
+![img2](./result/图片2.png)
+NaiveBayesFlatten
