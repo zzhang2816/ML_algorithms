@@ -1,4 +1,4 @@
-# ML_algorithms
+# microbiome_prediction
 The human body contains a wide variety of microbiome that provide up to 99% of the genetic material present in our bodies, which play an important role in regulating host metabolism and immune system development. This repository includes several machine learning method using the rRNA sequences of gut microbiome to predict disease.
 
 
